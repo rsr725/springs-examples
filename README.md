@@ -1,3 +1,2 @@
 # springs-examples
-It's contains all the spring examples.
-Here I'm adding the spring examples.
+Here I'm going to add All spring examples one by one.
